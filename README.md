@@ -5,7 +5,8 @@ Simulación de transporte de sedimentos de fondo en base a un método lagrangian
 
 Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con 1, 5 ,10 y 20 partículas.
 
-#Especifiaciones de mi equipo:
+=============================
+Especifiaciones de mi equipo
 =============================
 
 - SO : Windows 10 - Home Single Language 64 bits
@@ -16,5 +17,6 @@ Se compara la velocidad de los computadores del equipo de trabajo con diferentes
 - HDD: 1TB
 - SSD: 240GB
 
-#Simulación
+===========
+Simulación
 ===========
