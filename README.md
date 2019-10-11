@@ -44,7 +44,4 @@ Se compara la velocidad de los computadores del equipo de trabajo con diferentes
 
 A continuación se encuentra un gráfico que muestra los tiempos de compilación obtuvidos al momento de ejecutar el código con diferentes cantidades de partículas.
 
-![image](https://user-images.githubusercontent.com/53720008/66687896-d36f2880-ec5a-11e9-9c8e-38b1ec390c9b.png)
-Entrega 4/Gráfico tiempo de compilación.jpg
-
-
+![Gráfico tiempo de compilación](https://user-images.githubusercontent.com/53720008/66688633-d7e91080-ec5d-11e9-9211-fc304c31b13b.jpg)
