@@ -25,7 +25,7 @@ Implementar un modelo de simulacion numerico para transporte de sedimentos de fo
 
 Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con 1, 5 ,10 y 20 partículas.
 
-# Especifiaciones del computador
+Especifiaciones del computador
 =============================
 
 - SO : Windows 10 - 64 bits
@@ -36,7 +36,7 @@ Se compara la velocidad de los computadores del equipo de trabajo con diferentes
 - HDD: 1TB
 - SSD: 240GB
 
-# Simulación E4
+Simulación E4
 =============
 
 
