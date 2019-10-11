@@ -23,7 +23,7 @@ Implementar un modelo de simulacion numerico para transporte de sedimentos de fo
 
 [Entrega 4]: Simulación del movimiento de n partículas. Se incluyen en fuerzas que afectan el comportamiento y choque entre ellas.
 
-Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con 1, 5 ,10 y 20 partículas.
+Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con diferentes cantidades de partículas que irán entre 1 a 20. 
 
 Especifiaciones del computador
 =============================
@@ -38,5 +38,11 @@ Especifiaciones del computador
 
 Simulación E4
 =============
+
+- Tiempos de compilación: 
+
+A continuación se encuentra un gráfico que muestra los tiempos de compilación obtuvidos al momento de ejecutar el código con diferentes cantidades de partículas.
+
+![image](https://user-images.githubusercontent.com/53720008/66687896-d36f2880-ec5a-11e9-9c8e-38b1ec390c9b.png)
 
 
