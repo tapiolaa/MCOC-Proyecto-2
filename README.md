@@ -21,9 +21,6 @@ Implementar un modelo de simulacion numerico para transporte de sedimentos de fo
 - [Meta 4] : Implementacion del código para múltiples partículas considerando un perfil de velocidad sencillo; además de uno complejo.
 - [Entrega 4] : (script saltation_many_particles_validation.py) Para el código se comienza por abordar el movimiento de más de una partícula, específicamente 2 con un perfil de velocidad sencillo; luego se pretende poder entregar los resultados para un número de partículas deseadas por el usuario, creando un input y con esto un ciclo que permita guardar las posiciones de cada una de estas partículas.
 
-[Entrega 4]: Simulación del movimiento de n partículas. Se incluyen en fuerzas que afectan el comportamiento y choque entre ellas.
-
-Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con diferentes cantidades de partículas que irán entre 1 a 20. 
 
 Especifiaciones del computador
 =============================
@@ -38,6 +35,10 @@ Especifiaciones del computador
 
 Simulación E4
 =============
+
+Simulación del movimiento de n partículas durante un periodo de timepo de 1 segundo con un dt = 0.001. Se incluyen fuerzas que afectan el comportamiento y choque entre ellas como fuerza de lift, drag, fuerza boyante y fuerza de gravedad.
+
+Se compara la velocidad de los computadores del equipo de trabajo con diferentes especificaciones para correr el código. También se presentan los tiempos que demora el equipo en correr la simulación con diferentes cantidades de partículas que irán entre 1 a 20.
 
 - Tiempos de compilación: 
 
