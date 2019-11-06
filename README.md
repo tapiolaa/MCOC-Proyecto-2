@@ -33,8 +33,8 @@ Especifiaciones del computador
 - HDD: 1TB
 - SSD: 240GB
 
-Simulación E4
-=============
+Simulación Entrega 4
+====================
 
 Simulación del movimiento de n partículas durante un periodo de timepo de 1 segundo con un dt = 0.001. Se incluyen fuerzas que afectan el comportamiento y choque entre ellas como fuerza de lift, drag, fuerza boyante y fuerza de gravedad.
 
@@ -79,4 +79,11 @@ A continuación se encuentran los resultados de la primera iteración.
 
 ![Gráfico tiempo de compilación](https://user-images.githubusercontent.com/53720008/66688633-d7e91080-ec5d-11e9-9211-fc304c31b13b.jpg)
 ![Tabla de datos de compilación](https://user-images.githubusercontent.com/53720008/66688860-e08e1680-ec5e-11e9-8374-0258613dcad9.jpg)
+
+Simulación Entrega 6
+====================
+
+Para esta entrega se ha modificado el código de la entrega 4, con la finalidad de disminuir los tiempos de compilación. El objetivo se ha logrado, como se puede ver en el gráfico adjunto donde ahora la curva tiene un comportamiento lineal, gracias a que la separación de los integradores para las partículas que colisionan permite acortar los tiempos, situación que antes no se diferenciaba entre las que chocan o no.
+
+Por otra parte, se ha reducido la cantidad de RAM que ocupa la máquina con la ayuda de archivos .npz y .h5py los cuales permiten guardar datos de manera binaria sin la necesidad de trabajarlos para luego utilizarlos, sino que se mantienen en este formato y luego el programa los reconoce como tal ahorrándo el tiempo de las conversiones.
 
