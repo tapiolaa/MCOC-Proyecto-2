@@ -89,7 +89,8 @@ Por otra parte, se ha reducido la cantidad de RAM que ocupa la máquina con la a
 
 A continuación se presenta la curva de tiempos de compilación que se obtuvo.
 
-![tiempos](https://user-images.githubusercontent.com/53720008/68263186-22269d00-0024-11ea-905c-f824528fc797.png)
+![tiemposOP](https://user-images.githubusercontent.com/53720008/68264387-71220180-0027-11ea-8f09-b568aa9de7fb.png)
 
-cant_particulas = [2,6,10,20,30,40,50,80,100]
+cant_particulas = [2, 6, 10, 20, 30, 40, 50, 80, 100]
+
 tiempos = [7.33, 19.03, 28.46, 59.76, 91.28, 126.53, 181.92, 302.56, 408.15]
