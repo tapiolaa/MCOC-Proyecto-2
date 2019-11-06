@@ -87,3 +87,9 @@ Para esta entrega se ha modificado el código de la entrega 4, con la finalidad 
 
 Por otra parte, se ha reducido la cantidad de RAM que ocupa la máquina con la ayuda de archivos .npz y .h5py los cuales permiten guardar datos de manera binaria sin la necesidad de trabajarlos para luego utilizarlos, sino que se mantienen en este formato y luego el programa los reconoce como tal ahorrándo el tiempo de las conversiones.
 
+A continuación se presenta la curva de tiempos de compilación que se obtuvo.
+
+![tiempos](https://user-images.githubusercontent.com/53720008/68263186-22269d00-0024-11ea-905c-f824528fc797.png)
+
+cant_particulas = [2,6,10,20,30,40,50,80,100]
+tiempos = [7.33, 19.03, 28.46, 59.76, 91.28, 126.53, 181.92, 302.56, 408.15]
